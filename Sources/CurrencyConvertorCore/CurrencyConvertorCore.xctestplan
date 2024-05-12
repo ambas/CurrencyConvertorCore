@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "F89F7E46-906D-4CAE-ACC0-D4B8BADE8D4F",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:",
+        "identifier" : "CurrencyConvertorCoreTests",
+        "name" : "CurrencyConvertorCoreTests"
+      }
+    }
+  ],
+  "version" : 1
+}
